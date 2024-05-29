@@ -1,7 +1,5 @@
 # CSCD616
 Information System Security
-# CSCD616
-Information System Security
 
 # Information Security
 - [ASU CSE 365: Information Assurance S21 from Tiffany Bao](https://www.youtube.com/playlist?list=PLV4Dfls5jUgwkc4-TgW0xO1bKIOItsUNU)
